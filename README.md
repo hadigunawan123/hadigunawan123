@@ -21,7 +21,7 @@ Hi, I'm Hadi Gunawan, you can call me **Hadi**.
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadigunawan123&layout=compact&langs_count=12)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadigunawan123&layout=compact&langs_count=12)
 
 </details>
 
