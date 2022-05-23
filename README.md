@@ -3,6 +3,7 @@
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br>
+
 Hi, I'm Hadi Gunawan, but you can call me **Hadi**.
 
 - 🌱 I’m currently learning Data Analytics and Data Science ✨✨
