@@ -4,7 +4,7 @@
 </a>
 <br>
 
-Hi, I'm Hadi Gunawan, but you can call me **Hadi**.
+Hi, I'm Hadi Gunawan, you can call me **Hadi**.
 
 - 🌱 I’m currently learning Data Analytics and Data Science ✨✨
 
